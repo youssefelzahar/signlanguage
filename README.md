@@ -1,13 +1,12 @@
-# signlanguage
 # SignLanguage
 
-A sign language recognition system based on a **Siamese Neural Network** for gesture similarity learning and classification.
+A sign language recognition system based on a **CNN** for gesture similarity learning and classification.
 
 ---
 
 ## Overview
 
-This project implements a **Siamese Network** architecture to recognize sign language gestures by learning to differentiate between pairs of hand images. Instead of traditional classification, the model learns to measure similarity between input images, making it robust for gesture recognition with limited data and variations.
+This project implements a **CNN** architecture to recognize sign language 
 
 The system aims to help bridge communication between deaf and hearing individuals by translating sign language into text or commands.
 
